@@ -2,3 +2,6 @@ Hello devops
 
 
 All added
+
+
+All Deleted
