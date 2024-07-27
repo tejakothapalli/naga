@@ -1,0 +1,16 @@
+git clone https://github.com/tejakothapalli/naga.git
+
+
+git pull
+
+
+
+create a text file abc.txt
+
+git add *
+
+git commit -m "First comment"
+
+git push
+
+
